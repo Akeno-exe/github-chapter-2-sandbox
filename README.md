@@ -1,1 +1,1 @@
-This file is created for understanding git and github.
+This file is created for understanding git.
